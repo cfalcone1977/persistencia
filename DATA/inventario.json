@@ -1,0 +1,50 @@
+[
+  {
+    "ID": 1,
+    "producto": "Balde Plastico",
+    "medida": "5L",
+    "cantidad": 500
+  },
+  {
+    "ID": 3,
+    "producto": "tornillo",
+    "medida": "3/4",
+    "cantidad": 2200
+  },
+  {
+    "ID": 5,
+    "producto": "arandela",
+    "medida": "1/2",
+    "cantidad": 300
+  },
+  {
+    "ID": 7,
+    "producto": "cepillo",
+    "medida": "30cm",
+    "cantidad": 81
+  },
+  {
+    "ID": 8,
+    "producto": "estopa",
+    "medida": "grande",
+    "cantidad": 320
+  },
+  {
+    "ID": 9,
+    "producto": "pincel",
+    "medida": "10cm",
+    "cantidad": 400
+  },
+  {
+    "ID": 10,
+    "producto": "lima",
+    "medida": "gruesa",
+    "cantidad": 400
+  },
+  {
+    "ID": 11,
+    "producto": "tuerca",
+    "medida": "3/8",
+    "cantidad": 1300
+  }
+]
